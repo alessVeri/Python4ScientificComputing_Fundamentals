@@ -1,8 +1,3 @@
-import sys 
-import os
-ThisfileDirectory=os.path.dirname(sys.argv[0])
-os.chdir(ThisfileDirectory)
-print os.getcwd()
 
 import os
 os.chdir("C:/Users/ale_v/Documents/Polimi/git_fork_clone2/gitFolderNew/Python4ScientificComputing_Fundamentals/alessVeri")
